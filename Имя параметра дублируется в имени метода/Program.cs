@@ -10,8 +10,10 @@ namespace Имя_параметра_дублируется_в_имени_мет�
     {
         static void Main(string[] args)
         {
+
         }
+
         public void Shoot(Player player) { }
-        public string Find(int index) { }
+        public string FindByIndex(int index) { }
     }
 }
